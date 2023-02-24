@@ -1,8 +1,8 @@
 # KG-VIS
 
 ## Introduction 
-This repository contains a dataset, **VisBank**, and a named entity recognition (NER) model related to our paper: 
-**VIS-KG: Break the Boundaries of Knowledge of Information Retrieval in VIS Literature**
+This repository contains a dataset, *VisBank*, and a named entity recognition (NER) model related to our paper: 
+*VIS-KG: Break the Boundaries of Knowledge of Information Retrieval in VIS Literature*
 
 ## Data 
 The dataset, **VISBank** we constructed in this paper was sourced from https://github.com/allenai/s2orc and comprises 125,745 papers from the visualization literature. It follows the same schema as the S2ORC dataset.
